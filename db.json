@@ -1,0 +1,204 @@
+{
+  "users": [
+    {
+      "id": 1
+    },
+    {
+      "email": "sswalih991@gmail.com",
+      "username": "swalih",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "email": "sswalih8811@gmail.com",
+      "username": "swalih",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "email": "sswalih881@gmail.com",
+      "username": "swalih",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "username": "anu",
+      "email": "anu@gamil.com",
+      "password": "1234",
+      "id": 5
+    },
+    {
+      "username": "anu",
+      "email": "anu@gmail.com",
+      "password": "1234",
+      "id": 6
+    },
+    {
+      "username": "anusha",
+      "email": "anusha@gmail.com",
+      "password": "1234",
+      "id": 7
+    },
+    {
+      "username": "veenu",
+      "email": "venu@gmail.com",
+      "password": "1234",
+      "id": 8
+    },
+    {
+      "username": "laal",
+      "email": "laaal@gmail.com",
+      "password": "`21",
+      "id": 9
+    },
+    {
+      "username": "laal",
+      "email": "laal@gmail.com",
+      "password": "132",
+      "id": 10
+    },
+    {
+      "username": "sila",
+      "email": "sila@gmail.com",
+      "password": "54321",
+      "id": 11
+    },
+    {
+      "username": "sanu",
+      "email": "sanu@gmail.com",
+      "password": "12345",
+      "id": 12
+    }
+  ],
+  "videos": [
+    {
+      "videoId": "1",
+      "title": "TOHFA",
+      "imageUrl": "https://i.ytimg.com/vi/kuniEyt3Qks/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/kuniEyt3Qks?si=pc4667w&autoplay=1",
+      "id": 1
+    },
+    {
+      "videoId": "2",
+      "title": "RANJHAA",
+      "imageUrl": "https://i.ytimg.com/vi/V7LwfY5U5WI/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/V7LwfY5U5WI?si=pc4667w&autoplay=1",
+      "id": 2
+    },
+    {
+      "videoId": "3",
+      "title": "HEERIYE",
+      "imageUrl": "https://i.ytimg.com/vi/RLzC55ai0eo/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/RLzC55ai0eo?si=pc4667w&autoplay=1",
+      "id": 3
+    }
+  ],
+  "category": [
+    {
+      "categoryId": "1",
+      "title": "music",
+      "videos": [
+        {
+          "videoId": "4",
+          "title": "BIG DOGS",
+          "imageUrl": "https://i.ytimg.com/vi/hOHKltAiKXQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/hOHKltAiKXQ?si=pc4667w&autoplay=1",
+          "id": 4
+        },
+        {
+          "videoId": "2",
+          "title": "RANJHAA",
+          "imageUrl": "https://i.ytimg.com/vi/V7LwfY5U5WI/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/V7LwfY5U5WI?si=pc4667w&autoplay=1",
+          "id": 2
+        },
+        {
+          "videoId": "1",
+          "title": "TOHFA",
+          "imageUrl": "https://i.ytimg.com/vi/kuniEyt3Qks/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/kuniEyt3Qks?si=pc4667w&autoplay=1",
+          "id": 1
+        },
+        {
+          "videoId": "2",
+          "title": "RANJHAA",
+          "imageUrl": "https://i.ytimg.com/vi/V7LwfY5U5WI/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/V7LwfY5U5WI?si=pc4667w&autoplay=1",
+          "id": 2
+        },
+        {
+          "videoId": "2",
+          "title": "RANJHAA",
+          "imageUrl": "https://i.ytimg.com/vi/V7LwfY5U5WI/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/V7LwfY5U5WI?si=pc4667w&autoplay=1",
+          "id": 2
+        },
+        {
+          "videoId": "2",
+          "title": "RANJHAA",
+          "imageUrl": "https://i.ytimg.com/vi/V7LwfY5U5WI/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/V7LwfY5U5WI?si=pc4667w&autoplay=1",
+          "id": 2
+        },
+        {
+          "videoId": "2",
+          "title": "RANJHAA",
+          "imageUrl": "https://i.ytimg.com/vi/V7LwfY5U5WI/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/V7LwfY5U5WI?si=pc4667w&autoplay=1",
+          "id": 2
+        }
+      ],
+      "id": 7
+    },
+    {
+      "categoryId": "2",
+      "title": "movie",
+      "videos": [
+        {
+          "videoId": "2",
+          "title": "RANJHAA",
+          "imageUrl": "https://i.ytimg.com/vi/V7LwfY5U5WI/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/V7LwfY5U5WI?si=pc4667w&autoplay=1",
+          "id": 2
+        }
+      ],
+      "id": 8
+    },
+    {
+      "categoryId": "3",
+      "title": "songs",
+      "videos": [],
+      "id": 9
+    },
+    {
+      "categoryId": "4",
+      "title": "cinima",
+      "videos": [
+        {
+          "videoId": "2",
+          "title": "RANJHAA",
+          "imageUrl": "https://i.ytimg.com/vi/V7LwfY5U5WI/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/V7LwfY5U5WI?si=pc4667w&autoplay=1",
+          "id": 2
+        }
+      ],
+      "id": 10
+    }
+  ],
+  "history": [
+    {
+      "videoId": "1",
+      "title": "TOHFA",
+      "url": "https://www.youtube.com/embed/kuniEyt3Qks?si=pc4667w&autoplay=1",
+      "datetime": "2024-09-02T06:29:52.666Z",
+      "id": 1
+    },
+    {
+      "videoId": "3",
+      "title": "HEERIYE",
+      "url": "https://www.youtube.com/embed/RLzC55ai0eo?si=pc4667w&autoplay=1",
+      "datetime": "2024-09-02T07:10:36.511Z",
+      "id": 2
+    }
+  ]
+}
